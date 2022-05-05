@@ -1,5 +1,5 @@
 #!/bin/bash
-sudo apt-get install mailutils 2>&1>logs.txt;
+sudo apt-get install mailutils 2>logs.txt;
 sudo apt-get install curl 2>&1>logs.txt;
 unset SUBJECT 2>&1>logs.txt; 
 unset FROM 2>&1>logs.txt;
