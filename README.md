@@ -1,4 +1,5 @@
-Under root user run the script (change the permission for execution if needed) with input arguments in order:
+Under root user run the script (change the permission for execution if needed) with input arguments in order: \n
+
 ./init.sh "Subject" "From(email)" "To(email)" "Also To(email)"
 After that all the parameters you enter will be exported to env. variables, so you can change them later.
 
